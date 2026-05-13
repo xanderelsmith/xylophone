@@ -55,4 +55,4 @@ Instead of hardcoding seven buttons, the app uses a dynamic `forEachIndexed` loo
 ## ✍️ About the Series
 This app was built as part of the *"Building the 4th Kotlin App"* series, documenting the transition from Flutter to modern Android development.
 
-*Check out the full write-up on Medium!*
+[Check out the full write-up on Medium!](https://medium.com/@xanderelsmith/jingle-bells-building-my-4th-kotlin-app-the-xylophone-651d651f44da?postPublishedType=repub)
